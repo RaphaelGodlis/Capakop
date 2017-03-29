@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Welcome to CAPAKOP</title>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="top">
+			
+			<div id="navigation">
+				<li><a href="index.html">Home</a><li>
+				<li><a href="about.html">About</a><li>
+				<li><a href="contact.html">Contact Us</a><li>
+			</div>
+			
+			<div id="social-media">
+				<ul>
+					<li><a href="https://www.facebook.com/capakop/"><img src="images/fb-art.png" /></a></li>
+					<li><a href="http://instagram.com/capakoplingerie"><img src="images/instagram.png" /></a/></li>
+				</ul>
+				
+			<div id="subscription">
+				<link><a href="login.html">Log In</a><link>
+				<link><a href="register.html">Register</a><link>
+			</div>
+			
+		</div>
+			
+		<div id="banner">
+			<img src="images/CapakopEmpowered.png" />
+		</div>
+	
+		<div id="productnavigation">
+				<a href="products.html">Products</a>
+		</div>
+			
+		<div id="content">
+			<h2>Our Story</h2>
+			<p>CAPAKOP. was founded in 2017 by Sarah Khor and Stirling Hor. CAPAKOP started as a small project to keep us busy in our long distance relationship. Fast forwarding to today, we are quickly blossoming at a rate in which our dream could actually become a reality. With our beautiful bralette and panty options, you’ll want to check out our store and check for the latest lingerie collections before all the good stuff is gone. We’re highly committed to customer satisfaction and go out of our way to make sure you walk out happy.</p>
+			<p>Here is a quick look of the designs we carry</p>
+			<img src="images/beautyandthebreast1.JPG" />
+			<img src="images/champagne bubbles1.JPG" />
+			<img src="images/muzz queen1.JPG" />
+		
+		</div>
+		
+	
+		<div id="footer">
+			<p>&copy;Copyright 2017	CAPAKOP.
+		</div>
+
+	</div>
+
+</body>
+
+</html>
