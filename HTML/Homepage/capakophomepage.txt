@@ -20,6 +20,7 @@
 					<li><a href="https://www.facebook.com/capakop/"><img src="images/fb-art.png" /></a></li>
 					<li><a href="http://instagram.com/capakoplingerie"><img src="images/instagram.png" /></a/></li>
 				</ul>
+			</div>
 				
 			<div id="subscription">
 				<link><a href="login.html">Log In</a><link>
@@ -36,23 +37,63 @@
 				<a href="products.html">Products</a>
 		</div>
 			
-		<div id="content">
-			<h2>Our Story</h2>
-			<p>CAPAKOP. was founded in 2017 by Sarah Khor and Stirling Hor. CAPAKOP started as a small project to keep us busy in our long distance relationship. Fast forwarding to today, we are quickly blossoming at a rate in which our dream could actually become a reality. With our beautiful bralette and panty options, you’ll want to check out our store and check for the latest lingerie collections before all the good stuff is gone. We’re highly committed to customer satisfaction and go out of our way to make sure you walk out happy.</p>
-			<p>Here is a quick look of the designs we carry</p>
-			<img src="images/beautyandthebreast1.JPG" />
-			<img src="images/champagne bubbles1.JPG" />
-			<img src="images/muzz queen1.JPG" />
-		
+		<div id="productrange">
+			
+			<div id="bralettes">
+				<li><a href="bralettes.html"><img src="images/MuzzQueenblack1.JPG" /></a></li>
+				<h2>Bralettes</h2> 
+			</div>
+			
+			<div id="leggings">
+				<li><a href="stockings.html"><img src="images/stockings.jpg" /></a></li>
+				<h2>Stockings</h2>
+			</div>
 		</div>
 		
-	
+		<div id="bestsellers">
+			
+			<div id="headingforbestsellers">
+				<h1>Best Sellers</h1>
+			</div>
+			
+			<div id="product1">
+				<li><a href="champagnebubbles.html"><img src="images/champagnebubblesblack1.JPG" /></a></li>
+				<h3>Champagne Bubbles</h3>
+			</div>
+			
+			<div id="product2">
+				<li><a href="badbeach.html"><img src="images/badbeach1.JPG" /></a></li>
+				<h3>Bad Beach</h3>
+			</div>
+			
+			<div id="product3">
+				<li><a href="beautyandthebreast.html"><img src="images/beautyandthebreast1.JPG" /></a></li>
+				<h3>Beauty and the Breast</h3>
+			</div>
+			
+			<div id="product4">
+				<li><a href="crocodiletears.html"><img src="images/crocodiletearsblack1.JPG" /></a></li>
+				<h3>Crocodile Tears</h3>
+			</div>
+			
+			<div id="product5">
+				<li><a href="flauntit.html"><img src="images/flauntit1.JPG" /></a></li>
+				<h3>Flaunt It</h3>
+			</div>
+			
+			<div id="product6">
+				<li><a href="nolongerafrayed.html"><img src="images/nolongerafrayedwhite1.JPG" /></a></li>
+				<h3>No Longer A-Frayed</h3>
+			</div>
+		</div>
+			
 		<div id="footer">
-			<p>&copy;Copyright 2017	CAPAKOP.
+			<p>capakoplingerie@gmail.com</p>
+			<p>+61411748413</p>
+			<p>&copy;Copyright 2017	CAPAKOP.</p>
 		</div>
-
 	</div>
 
-</body>
-
+	
+</body> 
 </html>
