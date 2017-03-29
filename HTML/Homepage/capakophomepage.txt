@@ -86,6 +86,12 @@
 				<h3>No Longer A-Frayed</h3>
 			</div>
 		</div>
+		
+		<div id="payments">
+			<h2>We Accept:</h2>
+			<img src="images/visa and mastercard.png" />
+			<img src="images/PP_Acceptance_Marks_for_LogoCenter_266x142.png" />
+		</div>
 			
 		<div id="footer">
 			<p>capakoplingerie@gmail.com</p>
