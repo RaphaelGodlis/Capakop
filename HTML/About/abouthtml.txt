@@ -27,8 +27,7 @@ a<!DOCTYPE html>
 			<p>Hi! Thank you for visiting the official CAPAKOP website.</p>
 			<p> We are 
 			Sarah Khor and Stirling Hor, a two (wo)man team that have a passion 
-			for our customers! CAPAKOP. was founded in 2017 by Sarah Khor and 
-			Stirling Hor. CAPAKOP. was founded in 2017 by Sarah Khor and Stirling Hor. CAPAKOP started as a small project to keep us busy in our long distance relationship. We both met in Melbourne for university and decided to put together our creativity and ingenuity towards a brand that we would want to associate with. A brand that cares about the people that it meets and promotes self-love! CAPAKOP. is the culmination of all of our aspirations, and with our beautiful bralette and panty options, you’ll want to check out our store and check for the latest lingerie collections before all the good stuff is gone. We’re highly committed to customer satisfaction and go out of our way to make sure you are happy!  </p>		
+			for creativity! CAPAKOP. was founded in 2017 by Sarah Khor and Stirling Hor as a small project to keep us busy in our long distance relationship. We both met in Melbourne for university and decided to put together our creativity and ingenuity towards a brand that we would want to associate with; A brand that cares about the people that it meets and promotes self-love! CAPAKOP. is the culmination of all of these aspirations, and with our beautiful bralette and panty options, you’ll want to check out our store and check for the latest lingerie collections before all the good stuff is gone. We’re highly committed to customer satisfaction and go out of our way to make sure you are happy! Here at CAPAKOP. we want you to feel like family so please don't hesisitate to ask us anything! </p>		
 		</div>
 						
 		<div id="footer">
