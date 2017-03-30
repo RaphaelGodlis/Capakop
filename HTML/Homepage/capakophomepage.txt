@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+a<!DOCTYPE html>
 <html>
 
 <head>
@@ -9,45 +9,32 @@
 <body>
 	<div id="wrapper">
 		<div id="top">
-			
 			<div id="navigation">
-				<li><a href="index.html">Home</a><li>
-				<li><a href="about.html">About</a><li>
-				<li><a href="contact.html">Contact Us</a><li>
-			</div>
-			
-			<div id="social-media">
-				<ul>
-					<li><a href="https://www.facebook.com/capakop/"><img src="images/fb-art.png" /></a></li>
-					<li><a href="http://instagram.com/capakoplingerie"><img src="images/instagram.png" /></a/></li>
-				</ul>
-			</div>
-				
-			<div id="subscription">
-				<link><a href="login.html">Log In</a><link>
-				<link><a href="register.html">Register</a><link>
-			</div>
-			
-		</div>
-			
-		<div id="banner">
-			<img src="images/CapakopEmpowered.png" />
-		</div>
-	
-		<div id="productnavigation">
+				<a href="index.html">Home</a>
 				<a href="products.html">Products</a>
+				<a href="about.html">About Us</a>
+				<a href="contact.html">Contact Us</a>
+				<a href="https://www.facebook.com/capakop/"><img src="../../Images/SocialMedia/fbresized.png" /></a>
+				<a href="http://instagram.com/capakoplingerie"><img src="../../Images/SocialMedia/rsz_instagram.png" /></a>
+				<link><a href="login.html">Log In</a><link>
+				<link><a href="register.html">Register</a><link>	
+			</div>
+		</div>
+		
+		<div id="banner">
+			<img src="../../Images/Logo/capaokoplogoresized1.png" />
 		</div>
 			
 		<div id="productrange">
 			
 			<div id="bralettes">
-				<li><a href="bralettes.html"><img src="images/MuzzQueenblack1.JPG" /></a></li>
 				<h2>Bralettes</h2> 
+				<a href="bralettes.html"><img src="../../Images/Bralettes/MuzzQueenblack1.JPG" /></a>
 			</div>
 			
 			<div id="leggings">
-				<li><a href="stockings.html"><img src="images/stockings.jpg" /></a></li>
 				<h2>Stockings</h2>
+				<a href="stockings.html"><img src="../../Images/Stockings/stockings.jpg" /></a>
 			</div>
 		</div>
 		
@@ -58,44 +45,46 @@
 			</div>
 			
 			<div id="product1">
-				<li><a href="champagnebubbles.html"><img src="images/champagnebubblesblack1.JPG" /></a></li>
 				<h3>Champagne Bubbles</h3>
+				<a href="champagnebubbles.html"><img src="../../Images/Bralettes/champagnebubblesblack1.JPG" /></a>
 			</div>
 			
 			<div id="product2">
-				<li><a href="badbeach.html"><img src="images/badbeach1.JPG" /></a></li>
 				<h3>Bad Beach</h3>
+				<a href="badbeach.html"><img src="../../Images/Bralettes/badbeach1.JPG" /></a>
 			</div>
 			
 			<div id="product3">
-				<li><a href="beautyandthebreast.html"><img src="images/beautyandthebreast1.JPG" /></a></li>
 				<h3>Beauty and the Breast</h3>
+				<a href="beautyandthebreast.html"><img src="../../Images/Bralettes/beautyandthebreast1.JPG" /></a>
 			</div>
 			
 			<div id="product4">
-				<li><a href="crocodiletears.html"><img src="images/crocodiletearsblack1.JPG" /></a></li>
 				<h3>Crocodile Tears</h3>
+				<a href="crocodiletears.html"><img src="../../Images/Bralettes/crocodiletearsblack1.JPG" /></a>
 			</div>
 			
 			<div id="product5">
-				<li><a href="flauntit.html"><img src="images/flauntit1.JPG" /></a></li>
 				<h3>Flaunt It</h3>
+				<a href="flauntit.html"><img src="../../Images/Bralettes/flauntit1.JPG" /></a>
 			</div>
 			
 			<div id="product6">
-				<li><a href="nolongerafrayed.html"><img src="images/nolongerafrayedwhite1.JPG" /></a></li>
 				<h3>No Longer A-Frayed</h3>
+				<a href="nolongerafrayed.html"><img src="../../Images/Bralettes/nolongerafrayedwhite1.JPG" /></a>
 			</div>
 		</div>
 		
 		<div id="payments">
 			<h2>We Accept:</h2>
-			<img src="images/visa and mastercard.png" />
-			<img src="images/PP_Acceptance_Marks_for_LogoCenter_266x142.png" />
+			<img src="../../Images/Payment/visa and mastercard.png" />
+			<img src="../../Images/Payment/Paypal.png" />
 		</div>
 			
 		<div id="footer">
-			<p>capakoplingerie@gmail.com</p>
+			<p>
+				<a href="mailto:capakoplingerie@gmail.com"> capakoplingerie@gmail.com</a>
+			</p>
 			<p>+61411748413</p>
 			<p>&copy;Copyright 2017	CAPAKOP.</p>
 		</div>
