@@ -14,8 +14,8 @@ a<!DOCTYPE html>
 				<a href="products.html">Products</a>
 				<a href="about.html">About Us</a>
 				<a href="contact.html">Contact Us</a>
-				<a href="https://www.facebook.com/capakop/"><img src="../../Images/SocialMedia/fbresized.png" /></a>
-				<a href="http://instagram.com/capakoplingerie"><img src="../../Images/SocialMedia/rsz_instagram.png" /></a>
+				<a href="https://www.facebook.com/capakop/"><img src="../Capakop Source - Git/Images/SocialMedia/fbresized.png" /></a>
+				<a href="http://instagram.com/capakoplingerie"><img src="../Capakop Source - Git/Images/SocialMedia/rsz_instagram.png" /></a>
 				<li><a href="login.html">Log In</a><li>
 				<li><a href="register.html">Register</a><li>	
 			</div>
