@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Welcome to CAPAKOP</title>
+	<link href="css/stylesheet.css" rel="stylesheet" type="text/css" media="screen">
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="top">
+			
+			<div id="navigation">
+				<li><a href="index.html">Home</a><li>
+				<li><a href="about.html">About</a><li>
+				<li><a href="contact.html">Contact Us</a><li>
+			</div>
+			
+			<div id="social-media">
+				<ul>
+					<li><a href="https://www.facebook.com/capakop/"><img src="images/fb-art.png" /></a></li>
+					<li><a href="http://instagram.com/capakoplingerie"><img src="images/instagram.png" /></a/></li>
+				</ul>
+			</div>
+				
+			<div id="subscription">
+				<link><a href="login.html">Log In</a><link>
+				<link><a href="register.html">Register</a><link>
+			</div>
+			
+		</div>
+			
+		<div id="banner">
+			<img src="images/CapakopEmpowered.png" />
+		</div>
+	
+		<div id="productnavigation">
+				<a href="products.html">Products</a>
+		</div>
+			
+		<div id="productrange">
+			
+			<div id="bralettes">
+				<li><a href="bralettes.html"><img src="images/MuzzQueenblack1.JPG" /></a></li>
+				<h2>Bralettes</h2> 
+			</div>
+			
+			<div id="leggings">
+				<li><a href="stockings.html"><img src="images/stockings.jpg" /></a></li>
+				<h2>Stockings</h2>
+			</div>
+		</div>
+		
+		<div id="bestsellers">
+			
+			<div id="headingforbestsellers">
+				<h1>Best Sellers</h1>
+			</div>
+			
+			<div id="product1">
+				<li><a href="champagnebubbles.html"><img src="images/champagnebubblesblack1.JPG" /></a></li>
+				<h3>Champagne Bubbles</h3>
+			</div>
+			
+			<div id="product2">
+				<li><a href="badbeach.html"><img src="images/badbeach1.JPG" /></a></li>
+				<h3>Bad Beach</h3>
+			</div>
+			
+			<div id="product3">
+				<li><a href="beautyandthebreast.html"><img src="images/beautyandthebreast1.JPG" /></a></li>
+				<h3>Beauty and the Breast</h3>
+			</div>
+			
+			<div id="product4">
+				<li><a href="crocodiletears.html"><img src="images/crocodiletearsblack1.JPG" /></a></li>
+				<h3>Crocodile Tears</h3>
+			</div>
+			
+			<div id="product5">
+				<li><a href="flauntit.html"><img src="images/flauntit1.JPG" /></a></li>
+				<h3>Flaunt It</h3>
+			</div>
+			
+			<div id="product6">
+				<li><a href="nolongerafrayed.html"><img src="images/nolongerafrayedwhite1.JPG" /></a></li>
+				<h3>No Longer A-Frayed</h3>
+			</div>
+		</div>
+		
+		<div id="payments">
+			<h2>We Accept:</h2>
+			<img src="images/visa and mastercard.png" />
+			<img src="images/PP_Acceptance_Marks_for_LogoCenter_266x142.png" />
+		</div>
+			
+		<div id="footer">
+			<p>capakoplingerie@gmail.com</p>
+			<p>+61411748413</p>
+			<p>&copy;Copyright 2017	CAPAKOP.</p>
+		</div>
+	</div>
+
+	
+</body> 
+</html>
